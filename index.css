@@ -118,6 +118,8 @@ body{
     justify-content: center;
   
     float: left;
+     transition:250ms ease-in-out;
+     transform: trannslateY(-15px)
     margin-top: 40px;
     /* Fade in container */
     animation: fadeIn 1s linear;
